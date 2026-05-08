@@ -1,1 +1,1 @@
-https://github.com/vennguyen/GPMB/blob/main/GPMB.zip
+https://raw.githubusercontent.com/vennguyen/GPMB/main/GPMB.zip
